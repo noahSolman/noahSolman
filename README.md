@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Haytham (Noah Solman)
+- 👋 Hi, I’m Haytham (Noah) Solman. 
 - 👀 I’m interested in Artificial Intelligence, Software Engineering and Robotics
-- 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on Whatever
-- 📫 How to reach me s3285661@student.rmit.edu.au
-
-
+- 🌱 I’m currently learning AI @ RMIT University
+- 📫 I'm highly contactable via s3285661@student.rmit.edu.au
+- I work currently coordinating a project that captures the treatment and outcomes of patients undergoing Cardiac Surgery. It requires a variety of skills to carry out my work from data cleaning and analysis to various admin duties.
+- I am enjoying studying and working at the same time. It does become hard to manage at times, but my GF Kira and pets Cosmo and Xander are all very supportive. My hobbies include, baking, street fighter and playing guitar.
